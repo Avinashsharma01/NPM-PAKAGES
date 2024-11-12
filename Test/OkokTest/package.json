@@ -1,5 +1,5 @@
 {
-  "name": "my-npm-package0101",
+  "name": "okoktest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "my-npm-packageokok": "^1.2.1"
+  }
 }
